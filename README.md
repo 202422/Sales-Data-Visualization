@@ -10,6 +10,8 @@ Each dataset includes between **12,000** and **25,000** transactions (rows) and 
 **-Order Date**  
 **-Purchase Address**
 
+[Original datasets](https://github.com/202422/Sales-Data-Visualization/tree/main/Raw%20Data)
+
 ## Visualization objectives
 
 The analysis of this dataset aims to answer specific questions to better understand the sales dynamics of electronic devices in 2019. The main objectives are as follows:  
@@ -31,6 +33,8 @@ To prepare the data for optimal visualization in Tableau, a thorough preprocessi
 
 The final dataset contains over 180,000 rows and 15 columns.
 
+[Cleaning Notebook and final dataset](https://github.com/202422/Sales-Data-Visualization/tree/main/Transformed%20Data)
+
 ## Some Charts
 
 ![](RepoAssets/CAparMois.png)   
@@ -38,3 +42,5 @@ The final dataset contains over 180,000 rows and 15 columns.
 ![](RepoAssets/QuantityVsSales.png)   
 ![](RepoAssets/ProduitPlusVendu.png)      
 ![](RepoAssets/VenteparVille.png)
+
+[Tableau WorkBook](https://github.com/202422/Sales-Data-Visualization/tree/main/Tableau%20WorkBook)
